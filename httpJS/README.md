@@ -6,7 +6,7 @@
 
 # TUTO
     Prérequis : node js, npm
-    cd proxy
+    cd httpJS
     npm install pour installer les dependances 
     node proxy.js
     setup le proxy sur le navigateur : 
